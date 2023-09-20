@@ -1,4 +1,4 @@
-# ubclicks
+# Oreofe Solar Application
 
 ## Project setup
 ```
@@ -22,7 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# ubclick
-# sunon
-# AlukoSolarProject
-# Solar-Recomender-System
+# Oreofe
+# solar-recomender-system
+# Solar App
