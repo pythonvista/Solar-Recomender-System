@@ -1,8 +1,8 @@
 <template>
   <div class="wrap px-4 py-6 flex flex-col justify-end">
     <div class="btns  w-full flex flex-col items-center justify-center gap-4">
-      <p class="ma-0 pa-0 text-2xl text-white font-bold">Name: Oreofe Opeyemi</p>
-      <p class="ma-0 pa-0 text-2xl text-white font-bold">Matric No: {}</p>
+      <p class="ma-0 pa-0 text-2xl text-white font-bold">Name: Eyinade Opeyemi oluwatoyin</p>
+      <p class="ma-0 pa-0 text-2xl text-white font-bold">Matric No: 1808003050</p>
       <p class="ma-0 pa-0 text-lg text-white">Solar/Inverter Recomendation App</p>    
       <v-btn  :to="{path: '/dashboard'}" small tile>Get Started</v-btn>  
     </div>
